@@ -1,0 +1,16 @@
+.summeryBasketSmall{
+    width: 90%;
+    background-color: chartreuse;
+}
+.summeryBasketSmall h1{
+    /* color:white; */
+}
+.basketSmall_show{
+    /* width: 100%; */
+    background-color: darkcyan;
+    /* height: 500px; */
+}
+.pritimSmall{
+        width: 100%;
+
+}

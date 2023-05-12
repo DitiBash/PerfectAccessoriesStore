@@ -1,0 +1,11 @@
+.basket_show{
+    
+    border: 5px black solid;
+    /* background-image:  url("../../../../public/img/5.jpg"); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.liForShowPritInBasket{
+    list-style-type: none;
+}
+

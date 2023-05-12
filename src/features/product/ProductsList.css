@@ -1,0 +1,15 @@
+.card{
+    
+    /* background-color: green;  */
+    background-color: rgba(225, 189, 189, 0.9);
+}
+/* .show_products{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+} */
+.parit_show:hover{
+    border: 1px black solid;
+}
+.liForShowProduct{
+    list-style-type: none;
+}

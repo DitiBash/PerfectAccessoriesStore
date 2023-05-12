@@ -1,0 +1,31 @@
+.card{
+    
+    /* background-color: green;  */
+    background-color: rgba(0,0,0, 0.9);
+}
+.show_products{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 13px;
+}
+.parit_show:hover{
+    border: 1px black solid;
+}
+.parit_show img{
+    width: 70%;
+}
+.parit_show h1{
+    font-size: 15pt;
+}
+.parit_show h2{
+    font-size: 15pt;
+}
+ .drawer{
+    /* width:400px; */
+    background-color: blueviolet;
+} 
+.MuiPaper-root{
+        background-color: blueviolet;
+
+    width:20%;
+}
